@@ -4,7 +4,7 @@
  for example detskop applications, web development and other minor projects.
  
  I hope you find something that can showcase my skills  
- and pair well with your business, if so, dont hesitate  
+ and that it pairs well with your business, if so, dont hesitate  
  to send me a message! :smile:
 
 <!---
